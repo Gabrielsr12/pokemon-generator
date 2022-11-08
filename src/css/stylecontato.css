@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap');
 body{
-    background-color: #0091ff;
+    background-image: linear-gradient( 109.6deg,  rgba(15,2,2,1) 11.2%, rgba(36,163,190,1) 91.1% );
+    background-attachment: fixed; 
+    background-size: cover;
     color: white;
     font-family: poppins;
     max-width: 1200px;
